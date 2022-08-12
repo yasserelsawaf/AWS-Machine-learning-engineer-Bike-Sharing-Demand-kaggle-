@@ -1,5 +1,7 @@
 # Predict Bike Sharing Demand with AutoGluon
 
+<img src="kaggle-bike-sharing-demand.jpg"/>
+
 ## AWS Machine Learning Engineer Nanodegree
 
 ## Overview
